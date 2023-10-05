@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Jane Coder",
+    "email" : "jane@coder.com",
+    "phone" : "707-123-4567",
+    "birthdate" : "Jan 2nd, 1982",
+    "id" : 1
+  },
+  {
+    "name" : "Travis Willey",
+    "email" : "willey@coder.com",
+    "phone" : "707-123-4567",
+    "birthdate" : "July 8th, 1996",
+    "id" : 2
+  },
+  {
+    "name" : "Anna Kendrick",
+    "email" : "Anna@coder.com",
+    "phone" : "707-123-4567",
+    "birthdate" : "July 8th, 1996",
+    "id" : 3
+  },
+  {
+    "name" : "Ryan Reynolds",
+    "email" : "Ryan@coder.com",
+    "phone" : "707-123-4567",
+    "birthdate" : "July 8th, 1996",
+    "id" : 4
+  }
+]

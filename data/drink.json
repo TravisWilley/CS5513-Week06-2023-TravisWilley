@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "owner": 2,
+    "drink" : "Sprite"
+  },
+  {
+    "id": 2,
+    "owner" : 4,
+    "drink" : "Root Beer"
+  },
+  {
+    "id": 3,
+    "owner" : 3,
+    "drink" : "Dr Pepper"
+  },
+  {
+    "id":4,
+    "owner":1,
+    "drink":"Diet Coke"
+  }
+]
